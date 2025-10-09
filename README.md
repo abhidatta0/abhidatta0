@@ -2,10 +2,11 @@
 <h3 align="center">Crafting digital experiences with passion | Frontend Developer from India 🇮🇳</h3>
 
 
-
 - 📝 I regularly write articles on [https://abhirupdatta.tech/](https://abhirupdatta.tech/)
 
 - 💬 Ask me about **frontend web!**
+
+- 📫 How to reach me **abhidatta146@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
