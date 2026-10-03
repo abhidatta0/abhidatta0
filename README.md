@@ -24,6 +24,6 @@ I write about frontend engineering(mostly!) on [my Hashnode blog](https://abhiru
 | **[jyn](https://github.com/abhidatta0/jyn)** | A random generator toolkit, published on npm | TypeScript | [npm](https://www.npmjs.com/package/jyn) |
 | **[react-cooler](https://github.com/abhidatta0/react-cooler)** | A tiny, type-safe React hook for cooldown timers | React · TypeScript | <!-- TODO: npm link --> |
 | **[Expense Tracker](https://github.com/abhidatta0/expense-tracker-nextjs14)** | Expense tracker web app | Next.js 14 · TypeScript | [Live](https://expense-tracker-abhirup.netlify.app/) |
-| **[Drawing App](https://github.com/abhidatta0/canvas101)** | Browser drawing app with brush presets and PNG export <!-- TODO: update after undo/redo + move to its own repo --> | Canvas API · JavaScript |[Live](https://drawing-app.abhirupdatta.tech/) |
+| **[Drawing App](https://github.com/abhidatta0/drawing-app-canvas)** | Browser drawing app with brush presets and PNG export <!-- TODO: update after undo/redo + move to its own repo --> | Canvas API · JavaScript |[Live](https://drawing-app.abhirupdatta.tech/) |
 
 ---
